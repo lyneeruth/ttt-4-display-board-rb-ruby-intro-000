@@ -9,4 +9,4 @@ def display_board(now_board)
   puts "#{now_board[6]} | #{now_board[7]} | #{now_board[8]}"
 end
 
-display_board([3,5,6])
+display_board([3,5,6," ",5,6," "," ","X"])
